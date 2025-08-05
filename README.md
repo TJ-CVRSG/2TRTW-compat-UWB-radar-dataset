@@ -1,12 +1,4 @@
-# 2TRTW-compat-UWB-radar-dataset for "[Paper Title]" (IEEE Internet of Things Journal)
-
-This repository contains the dataset and related resources for our paper:
-
-**"[Full Paper Title]"**, published in *IEEE Internet of Things Journal*, 2025.  
-[Author1], [Author2], [Author3]  
-[[DOI Link]](https://doi.org/xx.xxxx/xxxxx)
-
----
+# 2TRTW-compat-UWB-radar-dataset for "Through-Wall Human Activity Recognition with Compact MIMO Ultra-Wideband Radar" 
 
 ## 📂 Dataset Description
 
